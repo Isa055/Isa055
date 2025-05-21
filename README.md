@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Isa055
-- 👀 I’m interested in making games 
-- 🌱 I’m currently learning music
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+# 👋 Hi, I'm Isa055!
 
-<!---
-Isa055/Isa055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎒 **Middle School Student** | 🛠️ **Web Developer** | 🎶 **Music Creator**  
+Co-founder of **no cake incorporated**
+
+---
+
+## About Me
+
+Hey there! I'm Isa055, a middle school student passionate about building creative websites and making music. As a co-founder of **no cake incorporated**, I love bringing ideas to life with code and sound.
+
+- 🌐 **Web Skills:** HTML, CSS, JavaScript  
+- 🎵 **Music Maker:** Check out my work on BandLab and Spotify!  
+- 🚀 **Entrepreneurship:** Co-founding and growing no cake incorporated
+
+---
+
+## 🎧 Where to Find My Music
+
+- [BandLab](https://www.bandlab.com/ia2w3)
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect or check out my projects.
