@@ -23,3 +23,4 @@ Hey there! I'm Isa055, a middle school student passionate about building creativ
 
 Thanks for visiting my profile!  
 Feel free to connect or check out my projects.
+"Art is how we decorate space but, music is how we decorate time."-Stephen Sanchez
